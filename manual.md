@@ -20,11 +20,11 @@ Fitbit SDKを使って開発をはじめるには下記が必要です。
 
 1. [fitbit studio](https://studio.fitbit.com/)へアクセスします。"Start"を選択してログインします。
 
-   ![fitbit-01](image\fitbit-01.png)
+   ![fitbit-01](image/fitbit-01.png)
 
 2. 今回はDigital Clockテンプレートを使って作成します。プロジェクト名を選択したらテンプレートを選択し"Create"を選択します。
 
-   ![fitbit-02](image\fitbit-02.png)
+   ![fitbit-02](image/fitbit-02.png)
 
    3. fitbitデバイスの接続設定をします。
 
@@ -35,7 +35,7 @@ Fitbit SDKを使って開発をはじめるには下記が必要です。
 
       3. "Run"をクリックしてfitbitデバイスからアプリを実行します。成功するとfitbitデバイスの時計が変わったことが確認できます。
 
-         ![fitbit-03](image\fitbit-03.png)
+         ![fitbit-03](image/fitbit-03.png)
 
 ### 時計の外観をカスタマイズする
 
@@ -57,7 +57,7 @@ Ionic : **348 x 250** px
 
 3. "Run"を選択してFitbitで変更内容を確認します。
 
-   ![fitbit-04](image\fitbit-04.png)
+   ![fitbit-04](image/fitbit-04.png)
 
    ### 時計のテキストをカスタマイズ
 
@@ -80,7 +80,7 @@ Ionic : **348 x 250** px
    }
    ```
 
-![fitbit-05](image\fitbit-05.png)
+![fitbit-05](image/fitbit-05.png)
 
 ## アプリのアンインストール
 
